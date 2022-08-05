@@ -6,7 +6,7 @@
   <link href="https://kaki-jiu.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaki-jiu.github.io/"/>
-  <updated>2022-08-05T11:32:28.013Z</updated>
+  <updated>2022-08-05T13:02:58.214Z</updated>
   <id>https://kaki-jiu.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo 下 markdown 图片本地索引</title>
+    <link href="https://kaki-jiu.github.io/2022/08/05/hexo-%E4%B8%8B-markdown-%E5%9B%BE%E7%89%87%E6%9C%AC%E5%9C%B0%E7%B4%A2%E5%BC%95/"/>
+    <id>https://kaki-jiu.github.io/2022/08/05/hexo-%E4%B8%8B-markdown-%E5%9B%BE%E7%89%87%E6%9C%AC%E5%9C%B0%E7%B4%A2%E5%BC%95/</id>
+    <published>2022-08-05T13:02:14.000Z</published>
+    <updated>2022-08-05T13:02:58.214Z</updated>
+    
+    
+    
+    
+    <category term="博客" scheme="https://kaki-jiu.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="hexo" scheme="https://kaki-jiu.github.io/tags/hexo/"/>
+    
+    <category term="markdown" scheme="https://kaki-jiu.github.io/tags/markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>使用hexo创建自己的github page</title>
