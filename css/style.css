@@ -26,6 +26,7 @@
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -124,7 +125,13 @@ sub {
 
 img {
   border: 0;
+  box-sizing: border-box;
+  margin: auto;
+  padding: 3px;
+  text-align: center;
+  display: block;
 }
+
 
 svg:not(:root) {
   overflow: hidden;
@@ -148,7 +155,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace,monospace;
+  font-family: consolas,monospace;
   font-size: 1em;
 }
 
