@@ -25,15 +25,15 @@
 <meta property="og:site_name" content="Li&#39;word">
 <meta property="og:description" content="0x00 写在前面的碎碎念 出于一些原因想要创建自己的博客记录, 可以参见文章Hello Word  0x01 开始之前需要做的事  安装git, 使用git version查看是否成功 安装node.js, 使用node -v查看是否成功 安装hexo命令行支持$ npm install -g hexo-cli 文档里有关于将hexo添加到path里的说明, 但是我搞不清楚hexo的安装目录在">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://kaki-jiu.github.io/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/npm%20list%20hexo-deployer-git.jpg/">
-<meta property="og:image" content="https://kaki-jiu.github.io/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/hexo%20-v.jpg/">
+<meta property="og:image" content="https://kaki-jiu.github.io/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/npm%20list%20hexo-deployer-git.jpg">
+<meta property="og:image" content="https://kaki-jiu.github.io/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/hexo%20-v.jpg">
 <meta property="article:published_time" content="2022-08-05T10:13:40.000Z">
-<meta property="article:modified_time" content="2022-08-05T11:32:28.013Z">
+<meta property="article:modified_time" content="2022-08-22T15:36:49.566Z">
 <meta property="article:author" content="Zhenhui Li">
 <meta property="article:tag" content="Hexo">
 <meta property="article:tag" content="pure">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://kaki-jiu.github.io/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/npm%20list%20hexo-deployer-git.jpg/">
+<meta name="twitter:image" content="https://kaki-jiu.github.io/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/npm%20list%20hexo-deployer-git.jpg">
   <!-- Canonical links -->
   <link rel="canonical" href="https://kaki-jiu.github.io/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/index.html">
   
@@ -337,7 +337,7 @@
 <ol>
 <li><a href="https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496">安装git</a>, 使用git version查看是否成功</li>
 <li><a href="https://www.runoob.com/nodejs/nodejs-install-setup.html">安装node.js</a>, 使用node -v查看是否成功</li>
-<li>安装hexo命令行支持<code>$ npm install -g hexo-cli</code><br />
+<li>安装hexo命令行支持<code>$ npm install -g hexo-cli</code><br>
 文档里有关于将hexo添加到path里的说明, 但是我搞不清楚hexo的安装目录在哪里,同时hexo-cli和hexo好像不太一样,不懂</li>
 <li>了解一些基本概念以帮助解决出现的问题
 <ul>
@@ -352,7 +352,7 @@
 <blockquote>
 <p>npm list hexo-deployer-git</p>
 </blockquote>
-<p><img src="/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/npm%20list%20hexo-deployer-git.jpg/" alt="命令输出" /><br />
+<p><img src="/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/npm%20list%20hexo-deployer-git.jpg" alt="命令输出"><br>
 看到什么都没有, 可能是因为hexo管理脚本和插件时<a href="https://hexo.io/zh-cn/docs/plugins.html">直接安装在当前工作目录下</a>, 省去了remake的麻烦</p>
 <h2 id="init文件夹"><a class="markdownIt-Anchor" href="#init文件夹"></a> init文件夹,</h2>
 <p>在<code>D:\</code>的cmd下输入<code>hexo init bolg</code>, 创建一个名称为blog的工作目录, clone了<a href="https://github.com/hexojs/hexo-starter">https://github.com/hexojs/hexo-starter</a>并添加了一些基础脚本和插件</p>
@@ -380,10 +380,10 @@
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-wordcount --save</span><br><span class="line">npm install hexo-generator-json-content --save</span><br><span class="line">npm install hexo-generator-feed --save</span><br><span class="line">npm install hexo-generator-sitemap --save</span><br><span class="line">npm install hexo-generator-baidu-sitemap --save</span><br><span class="line">npm install hexo-deployer-git --save    #部署</span><br><span class="line">npm install hexo-generator-feed --save  #rss订阅</span><br></pre></td></tr></table></figure>
 <p>至此网站已经可以跑起来了, 但是还需要调整一些参数来达到<code>实用</code></p>
 <p><s>我使用了<code>独立的 _config.[theme].yml 文件</code>方法来修改配置, 参见<a href="https://hexo.io/zh-cn/docs/configuration#%E4%BD%BF%E7%94%A8%E4%BB%A3%E6%9B%BF%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6">此处</a>, 按照需求修改<code>/themes/pure/_config.yml.example</code>后,执行<code>cp ./themes/pure/_config.yml.example _config.pure.yml</code>复制到根目录</s>, 别瞎jb搞了,我的hexo -v输出只有hexo-cli没有hexo,那个是hexo 5以上支持的,不懂.jpg</p>
-<p><img src="/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/hexo%20-v.jpg/" alt="hexo -v输出" /></p>
+<p><img src="/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/hexo%20-v.jpg" alt="hexo -v输出"></p>
 <p>使用前记得将<code>themes\pure\_source</code>下的东西复制到<code>source</code></p>
-<p>直接修改<code>_config.yml</code>和<code>themes/pure/_config.yml</code><br />
-关于yml写法可以看一下<a href="https://www.ruanyifeng.com/blog/2016/07/yaml.html">阮一峰的博客</a><br />
+<p>直接修改<code>_config.yml</code>和<code>themes/pure/_config.yml</code><br>
+关于yml写法可以看一下<a href="https://www.ruanyifeng.com/blog/2016/07/yaml.html">阮一峰的博客</a><br>
 关于pure还找到了<a href="https://github.com/hwame/hwame.github.io">hwame的博客</a><s>给大佬磕一个</s>,里面有关于左面标签的魔改成<a href="https://hwame.top/20200520/hello-hexo-troubleshooting.html#7-%E6%B7%BB%E5%8A%A0%E3%80%8C%E7%9B%B8%E5%86%8C%E3%80%8D%E9%A1%B5%E9%9D%A2">相册</a>以及<a href="https://hwame.top/20200520/hello-hexo-optimization.html">评论系统</a></p>
 <p>一个tips:foo/bar是自二战时的俚语FUBAR(Fucked Up Beyond All Repair),是坏到无法修缮的意思,国外的程序员用这些词很大程度上是为了幽默,当变量,函数,或命令本身不太重要的时候foobar,foo,bar,baz和qux就被用来充当这些实体的名字,没有任何意义<s>大雾</s></p>
 <p>最后一个hexo客户端:<a href="https://github.com/gaoyoubo/hexo-client">https://github.com/gaoyoubo/hexo-client</a></p>
