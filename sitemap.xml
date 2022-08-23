@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kaki-jiu.github.io/404/index.html</loc>
+    
+    <lastmod>2022-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaki-jiu.github.io/504/index.html</loc>
+    
+    <lastmod>2022-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kaki-jiu.github.io/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/</loc>
     
     <lastmod>2022-08-22</lastmod>
@@ -20,16 +38,16 @@
   </url>
   
   <url>
-    <loc>https://kaki-jiu.github.io/about/index.html</loc>
+    <loc>https://kaki-jiu.github.io/2022/08/23/hexo-%E5%86%99%E5%8D%9A%E5%AE%A2%E6%B5%81%E7%A8%8B%E5%8F%8A%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB/</loc>
     
-    <lastmod>2022-08-05</lastmod>
+    <lastmod>2022-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://kaki-jiu.github.io/404.html</loc>
+    <loc>https://kaki-jiu.github.io/about/index.html</loc>
     
     <lastmod>2022-08-05</lastmod>
     
@@ -85,7 +103,7 @@
 
   <url>
     <loc>https://kaki-jiu.github.io/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,28 +111,21 @@
   
   <url>
     <loc>https://kaki-jiu.github.io/tags/hexo/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kaki-jiu.github.io/tags/markdown/</loc>
-    <lastmod>2022-08-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kaki-jiu.github.io/tags/Hexo/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kaki-jiu.github.io/tags/pure/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -122,8 +133,22 @@
 
   
   <url>
-    <loc>https://kaki-jiu.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-08-22</lastmod>
+    <loc>https://kaki-jiu.github.io/categories/blog/</loc>
+    <lastmod>2022-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaki-jiu.github.io/categories/markdown/</loc>
+    <lastmod>2022-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaki-jiu.github.io/categories/markdown/blog/</loc>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
