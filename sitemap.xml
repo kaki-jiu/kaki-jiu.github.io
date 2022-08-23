@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kaki-jiu.github.io/404/index.html</loc>
-    
-    <lastmod>2022-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kaki-jiu.github.io/404.html</loc>
     
     <lastmod>2022-08-23</lastmod>
@@ -133,14 +124,14 @@
 
   
   <url>
-    <loc>https://kaki-jiu.github.io/categories/blog/</loc>
+    <loc>https://kaki-jiu.github.io/categories/markdown/</loc>
     <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kaki-jiu.github.io/categories/markdown/</loc>
+    <loc>https://kaki-jiu.github.io/categories/blog/</loc>
     <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
