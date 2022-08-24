@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kaki-jiu.github.io/todu/index.html</loc>
+    
+    <lastmod>2022-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaki-jiu.github.io/2022/08/24/vivo-X30-%E6%8D%A2%E7%94%B5%E6%B1%A0%E5%AE%9E%E5%BD%95/</loc>
+    
+    <lastmod>2022-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kaki-jiu.github.io/404.html</loc>
     
     <lastmod>2022-08-23</lastmod>
@@ -11,16 +29,16 @@
   </url>
   
   <url>
-    <loc>https://kaki-jiu.github.io/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/</loc>
+    <loc>https://kaki-jiu.github.io/2022/08/05/hexo-%E4%B8%8B-markdown-%E5%9B%BE%E7%89%87%E6%9C%AC%E5%9C%B0%E7%B4%A2%E5%BC%95/</loc>
     
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://kaki-jiu.github.io/2022/08/05/hexo-%E4%B8%8B-markdown-%E5%9B%BE%E7%89%87%E6%9C%AC%E5%9C%B0%E7%B4%A2%E5%BC%95/</loc>
+    <loc>https://kaki-jiu.github.io/2022/08/05/%E4%BD%BF%E7%94%A8hexo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84github-page/</loc>
     
     <lastmod>2022-08-22</lastmod>
     
@@ -94,7 +112,7 @@
 
   <url>
     <loc>https://kaki-jiu.github.io/</loc>
-    <lastmod>2022-08-23</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,21 +120,28 @@
   
   <url>
     <loc>https://kaki-jiu.github.io/tags/hexo/</loc>
-    <lastmod>2022-08-23</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kaki-jiu.github.io/tags/markdown/</loc>
-    <lastmod>2022-08-23</lastmod>
+    <lastmod>2022-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaki-jiu.github.io/tags/vivo-X30/</loc>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kaki-jiu.github.io/tags/pure/</loc>
-    <lastmod>2022-08-23</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -125,21 +150,28 @@
   
   <url>
     <loc>https://kaki-jiu.github.io/categories/markdown/</loc>
-    <lastmod>2022-08-23</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kaki-jiu.github.io/categories/blog/</loc>
-    <lastmod>2022-08-23</lastmod>
+    <lastmod>2022-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaki-jiu.github.io/categories/%E7%8E%A9%E6%9C%BA/</loc>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kaki-jiu.github.io/categories/markdown/blog/</loc>
-    <lastmod>2022-08-23</lastmod>
+    <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

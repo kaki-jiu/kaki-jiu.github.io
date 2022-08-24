@@ -6,7 +6,7 @@
   <link href="https://kaki-jiu.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaki-jiu.github.io/"/>
-  <updated>2022-08-22T17:48:51.473Z</updated>
+  <updated>2022-08-24T14:40:25.681Z</updated>
   <id>https://kaki-jiu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vivo X30 换电池实录</title>
+    <link href="https://kaki-jiu.github.io/2022/08/24/vivo-X30-%E6%8D%A2%E7%94%B5%E6%B1%A0%E5%AE%9E%E5%BD%95/"/>
+    <id>https://kaki-jiu.github.io/2022/08/24/vivo-X30-%E6%8D%A2%E7%94%B5%E6%B1%A0%E5%AE%9E%E5%BD%95/</id>
+    <published>2022-08-24T13:33:06.000Z</published>
+    <updated>2022-08-24T14:40:25.681Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="0x00-开始前的话"><a class="markdownIt-Anchor" href="#0x00-开始前的话"></a> 0x00 开始前的话</h1><p>vivo X30购于2022年七月, 标称电池容量4350毫安<s>但是实际只有3600</s>, 到2022年容量只剩下2200毫安, 测试方法: <a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">play商店的Battery Guru</a>所以产生了换电池的想法<br><img src="http://39.101.77.34:10000/images/2022/08/24/07014d2e607847561d63ab026ea8ed3b.jpg" alt="手机原貌"></p><h1 id="0x01-寻找电池型号"><a class="markdownIt-Anchor" href="#0x01-寻找电池型号"></a> 0x01 寻找电池型号</h1><p>最简单的方法当然是拆机 , 但是我显然不具备条件, 可以先到短视频平台搜索对应手机型号的拆机/换电池视频, 看不清楚信号不要紧, 打开淘宝搜索<code>vivo X30 原装电池</code>, 找到差不多样子就可以看到高清图片了, 型号B-K5<br><img src="http://39.101.77.34:10000/images/2022/08/24/a6074db030da2e8f5765e2ffe0b1597f.jpg" alt="电池详情"></p><p>可能还会搜到类似八千毫安的奇怪东西, 可以参考酷安老哥的的文章<s>链接找不到了</s>, 咨询店家简直一模一样…</p><h1 id="0x02-到手拆机"><a class="markdownIt-Anchor" href="#0x02-到手拆机"></a> 0x02 到手拆机</h1><p>需要的工具<br>撬片(薄铁片), 撬棍, 尖角小镊子, 卫生纸, 相机贴, 带磁性的十字和梅花螺丝刀(淘宝送到工具一言难尽)</p><h2 id="打开后盖"><a class="markdownIt-Anchor" href="#打开后盖"></a> 打开后盖</h2><p>用吹风机加热后盖两分钟(感觉没什么用, 我打了十几分钟原神), 一般撬片是从电池端开拆的, 但是我感觉从主板好一点(小心变砖), 毕竟天天加热</p><p>后盖本身是有一点大概一两毫米的缝隙的, 这个撬片进去不够用, 所以下手重一点, 但是要注意方向, 别把主板干费了, 撬片挺锋利的, 垫两张卫生纸</p><p><img src="http://39.101.77.34:10000/images/2022/08/24/4bfb3b740634198d00b91e3cecd5aeeb.jpg" alt="撬片深度示意图1"></p><p><img src="http://39.101.77.34:10000/images/2022/08/24/2.jpg" alt="撬片深度示意图2"></p><p>撬片带胶的地方就是插进去的</p><h2 id="拆卸主板屏蔽层保护壳"><a class="markdownIt-Anchor" href="#拆卸主板屏蔽层保护壳"></a> 拆卸主板屏蔽层/保护壳</h2><p><img src="http://39.101.77.34:10000/images/2022/08/24/9823342b423df0d72d4bbc8119e7628a.jpg" alt="拆背板后示意图"></p><p>从左向右依次是主板, NFC线圈贴纸, 电池, 底部小板(麦克风, 充电口, 送话器)</p><p>使用相机贴粘上相机防止进灰, 我这垃圾手机就不管了</p><p><img src="http://39.101.77.34:10000/images/2022/08/24/a89e7535b09c01d52631a06d4bb55ea7.jpg" alt="螺丝示意图"></p><p>围绕一圈把螺丝拆下来, 没磁芯可以用镊子夹出来<s>比如我</s>, 注意NFC贴纸上方的被保修贴盖住的梅花螺丝, 干不下来不要硬干, 看看那个螺丝没拆</p><p>(不过NFC断掉还能用<br><img src="http://39.101.77.34:10000/images/2022/08/24/a89e7535b09c01d52631a06d4bb55ea7.jpg" alt="断了的NFC"></p><p><img src="http://39.101.77.34:10000/images/2022/08/24/NFC2.jpg" alt="断了NFC的手机"></p><h2 id="拆装电池"><a class="markdownIt-Anchor" href="#拆装电池"></a> 拆装电池</h2><p>断开电池和主板之间的三个排线(电池, SIM卡, 还有不知道啥)</p><p>用电池的拉条把电池拉出来(实际电池胶特别紧, 我用撬棒翘起来的, 硬拉可能屏幕废掉), 注意透明的是电池底胶, 拉不动的</p><p><img src="http://39.101.77.34:10000/images/2022/08/24/e9e8384479a74b0e2cdac1ef647877a8.jpg" alt="弯曲的电池"></p><p>打上胶把新电池安进去, 然而我的商家没送胶, 遂作罢, 底胶还有一点</p><p>连接三个插排, 开机测试</p><p>ok</p><h2 id="装回背甲"><a class="markdownIt-Anchor" href="#装回背甲"></a> 装回背甲</h2><p><img src="http://39.101.77.34:10000/images/2022/08/24/d00d1bfa017a9e15f2bdda2807539747.jpg" alt="背甲内部全貌"></p><p>应当是先打胶水然后上的, 但是清理残胶把背甲搞碎了, 而且本来还有点粘性, 也还在用手机套, 遂放弃</p><p><img src="http://39.101.77.34:10000/images/2022/08/24/3c17de7c4478bdca744aa3c210df0233.jpg" alt="碎掉的背甲"></p><h1 id="出现的故障"><a class="markdownIt-Anchor" href="#出现的故障"></a> 出现的故障</h1><ul><li><p>NFC<br><img src="http://39.101.77.34:10000/images/2022/08/24/a89e7535b09c01d52631a06d4bb55ea7.jpg" alt="断了的NFC"><br>NFC寄了但还能用</p></li><li><p>相机位置不知名贴纸<br><img src="http://39.101.77.34:10000/images/2022/08/24/7293e4d73af0c49cc9fe3748692a1c69.jpg" alt><br>用镊子很轻易拆除, 不影响使用, 不知道是啥</p></li><li><p>底部小板防静电层<br><img src="http://39.101.77.34:10000/images/2022/08/24/7293e4d73af0c49cc9fe3748692a1c69.jpg" alt><br>目前不影响使用</p></li><li><p>部分背甲碎裂</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;0x00-开始前的话&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#0x00-开始前的话&quot;&gt;&lt;/a&gt; 0x00 开始前的话&lt;/h1&gt;
+&lt;p&gt;vivo X30购于2022年七月, 标称电池容量4350毫安&lt;s&gt;但是实际只有3600&lt;/s&gt;</summary>
+      
+    
+    
+    
+    <category term="玩机" scheme="https://kaki-jiu.github.io/categories/%E7%8E%A9%E6%9C%BA/"/>
+    
+    
+    <category term="vivo X30" scheme="https://kaki-jiu.github.io/tags/vivo-X30/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo 写博客流程及博客迁移</title>
@@ -42,9 +67,9 @@
     <link href="https://kaki-jiu.github.io/2022/08/05/hexo-%E4%B8%8B-markdown-%E5%9B%BE%E7%89%87%E6%9C%AC%E5%9C%B0%E7%B4%A2%E5%BC%95/"/>
     <id>https://kaki-jiu.github.io/2022/08/05/hexo-%E4%B8%8B-markdown-%E5%9B%BE%E7%89%87%E6%9C%AC%E5%9C%B0%E7%B4%A2%E5%BC%95/</id>
     <published>2022-08-05T13:02:14.000Z</published>
-    <updated>2022-08-22T17:51:02.675Z</updated>
+    <updated>2022-08-23T04:31:34.663Z</updated>
     
-    <content type="html"><![CDATA[<p>插件地址:<a href="https://github.com/7ym0n/hexo-asset-image">https://github.com/7ym0n/hexo-asset-image</a></p><p>关于插件下载, 正常只需要<code>npm install hexo-asset-image --save</code>, 但是由于不知名原因一直fail, 可以手动下载, 具体方法如下</p><ol><li>在本地博客根目录下的<code>./node_module/</code>目录下删除<code>hexo-asset-image</code>文件夹, 运行<code>git clone https://github.com/7ym0n/hexo-asset-image.git</code></li><li>在<code>hexo-asset-image</code>文件夹下运行<code>npm install -g</code>, 具体插件可以参考插件仓库给出说明, 可能还需要修改<code>_config.yml</code>文件(本插件不需要)</li></ol><p>修改<code>_config.yml</code>的<code>post_asset_folder: true</code>, 会导致在<code>hexo new post</code>时自动创建同名文件夹用于保存图片</p><p>具体引用方式<code>![image_introduction](./title_name/image_name.jpg)</code>, 注意</p><ol><li>本地链接里的<code>.</code></li><li>链接文件夹不可以跨文章, 可以参考github仓库里的编译结果</li><li>中文使用url编码, 在vscode下<code>Markdown Preview Enhanced</code>插件可以实现自动填充</li></ol><p>运行<code>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</code>本地检查效果</p>]]></content>
+    <content type="html"><![CDATA[<p>插件地址:<a href="https://github.com/7ym0n/hexo-asset-image">https://github.com/7ym0n/hexo-asset-image</a></p><p>关于插件下载, 正常只需要<code>npm install hexo-asset-image --save</code>, 但是由于不知名原因一直fail, 可以手动下载, 具体方法如下</p><ol><li>在本地博客根目录下的<code>./node_module/</code>目录下删除<code>hexo-asset-image</code>文件夹, 运行<code>git clone https://github.com/7ym0n/hexo-asset-image.git</code></li><li>在<code>hexo-asset-image</code>文件夹下运行<code>npm install -g</code>, 具体插件可以参考插件仓库给出说明, 可能还需要修改<code>_config.yml</code>文件(本插件不需要)</li></ol><p>修改<code>_config.yml</code>的<code>post_asset_folder: true</code>, 会导致在<code>hexo new post</code>时自动创建同名文件夹用于保存图片</p><p>具体引用方式<code>![image_introduction](./title_name/image_name.jpg)</code>, 注意</p><ol><li>本地链接里的<code>.</code></li><li>链接文件夹不可以跨文章, 可以参考github仓库里的编译结果</li><li>中文使用url编码, 在vscode下<code>Markdown Preview Enhanced</code>插件可以实现自动填充</li><li>本地索引不在page下起作用</li></ol><p>运行<code>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</code>本地检查效果</p><p>最后还是自己建一个图床省事</p>]]></content>
     
     
       
